@@ -19,6 +19,7 @@ yfinance
 ccxt
 alpha_vantage
 polygon-api-client
+alpaca-py
 
 # Backtesting
 backtrader
